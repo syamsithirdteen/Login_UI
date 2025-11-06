@@ -3,4 +3,4 @@
 A simple custom-designed login page using Flutter.
 
 ## 🎨 Preview
-![Login Screen](Tampilan Login.jpg)
+![Login Screen](https://github.com/syamsithirdteen/Login_UI/issues/1#issue-3596351494)
